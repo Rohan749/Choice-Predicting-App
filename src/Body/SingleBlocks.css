@@ -1,0 +1,6 @@
+.block {
+    display: inline-block;
+    width: 25rem;
+    margin: 2%;
+    height: 20rem;
+}
