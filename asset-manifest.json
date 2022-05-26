@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Choice-Predicting-App/static/css/main.2f311e89.css",
+    "main.js": "/Choice-Predicting-App/static/js/main.a1f2e865.js",
+    "static/media/d2.png": "/Choice-Predicting-App/static/media/d2.0f040b09cdb5504ead7f.png",
+    "static/media/w3.jpg": "/Choice-Predicting-App/static/media/w3.4313ad9183259122205d.jpg",
+    "static/media/w1.jpg": "/Choice-Predicting-App/static/media/w1.f2f96a56d2e748c983a8.jpg",
+    "static/media/d4.jpg": "/Choice-Predicting-App/static/media/d4.8134ce648aa20daef5e3.jpg",
+    "static/media/m4.jpg": "/Choice-Predicting-App/static/media/m4.ef522a28acd5afdd2b8c.jpg",
+    "static/media/egyptBack.jpg": "/Choice-Predicting-App/static/media/egyptBack.bcebfab80f1e07e8708d.jpg",
+    "static/media/d3.jpg": "/Choice-Predicting-App/static/media/d3.3a370b353a3ecec71a9f.jpg",
+    "static/media/w4.jpg": "/Choice-Predicting-App/static/media/w4.406f04de73aed0b28adf.jpg",
+    "static/media/m2.jpg": "/Choice-Predicting-App/static/media/m2.d14532664728ff319182.jpg",
+    "static/media/wp3348587.jpg": "/Choice-Predicting-App/static/media/wp3348587.5bd47baec410333174be.jpg",
+    "static/media/m1.jpg": "/Choice-Predicting-App/static/media/m1.8d034f3875272d3b9866.jpg",
+    "static/media/s4.jpg": "/Choice-Predicting-App/static/media/s4.c5159a3ec05319f8ce6d.jpg",
+    "static/media/c5.jpg": "/Choice-Predicting-App/static/media/c5.ca045f4b8db0737d58ad.jpg",
+    "static/media/c1.jpg": "/Choice-Predicting-App/static/media/c1.01a35f8d06694f34efe1.jpg",
+    "static/media/m3.jpg": "/Choice-Predicting-App/static/media/m3.ccbe3983b29edb405644.jpg",
+    "static/media/s2.jpg": "/Choice-Predicting-App/static/media/s2.1e641dae1b97802223f7.jpg",
+    "static/media/s3.jpg": "/Choice-Predicting-App/static/media/s3.8b9f1483ce709ca30484.jpg",
+    "static/media/c4.jpg": "/Choice-Predicting-App/static/media/c4.c1e13e9786364720fc4e.jpg",
+    "static/media/w2.jpg": "/Choice-Predicting-App/static/media/w2.5037fe09bf3e811fcaac.jpg",
+    "static/media/c3.jpg": "/Choice-Predicting-App/static/media/c3.7aa8ac00570be75338ee.jpg",
+    "static/media/s1.jpg": "/Choice-Predicting-App/static/media/s1.8dd27a6aa43d9728ca48.jpg",
+    "static/media/c2.jpg": "/Choice-Predicting-App/static/media/c2.7b4e461905565b9d8b3b.jpg",
+    "static/media/d1.jpg": "/Choice-Predicting-App/static/media/d1.e83c5c362b773520bd24.jpg",
+    "index.html": "/Choice-Predicting-App/index.html",
+    "main.2f311e89.css.map": "/Choice-Predicting-App/static/css/main.2f311e89.css.map",
+    "main.a1f2e865.js.map": "/Choice-Predicting-App/static/js/main.a1f2e865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f311e89.css",
+    "static/js/main.a1f2e865.js"
+  ]
+}
