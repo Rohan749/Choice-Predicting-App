@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Choice-Predicting-App/static/css/main.2f311e89.css",
+    "main.css": "/Choice-Predicting-App/static/css/main.e2e7cb4b.css",
     "main.js": "/Choice-Predicting-App/static/js/main.a1f2e865.js",
     "static/media/d2.png": "/Choice-Predicting-App/static/media/d2.0f040b09cdb5504ead7f.png",
     "static/media/w3.jpg": "/Choice-Predicting-App/static/media/w3.4313ad9183259122205d.jpg",
@@ -26,11 +26,11 @@
     "static/media/c2.jpg": "/Choice-Predicting-App/static/media/c2.7b4e461905565b9d8b3b.jpg",
     "static/media/d1.jpg": "/Choice-Predicting-App/static/media/d1.e83c5c362b773520bd24.jpg",
     "index.html": "/Choice-Predicting-App/index.html",
-    "main.2f311e89.css.map": "/Choice-Predicting-App/static/css/main.2f311e89.css.map",
+    "main.e2e7cb4b.css.map": "/Choice-Predicting-App/static/css/main.e2e7cb4b.css.map",
     "main.a1f2e865.js.map": "/Choice-Predicting-App/static/js/main.a1f2e865.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f311e89.css",
+    "static/css/main.e2e7cb4b.css",
     "static/js/main.a1f2e865.js"
   ]
 }
